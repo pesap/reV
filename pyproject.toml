@@ -76,7 +76,7 @@ reV-supply-curve-aggregation = "reV.supply_curve.cli_sc_aggregation:main"
 Homepage = "https://nrel.github.io/reV/"
 
 [tool.hatch.version]
-path = "rev/version.py"
+path = "reV/version.py"
 
 [tool.hatch.build.targets.sdist]
 include = [
